@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bekchanboy Usmanov</h1>
 <h3 align="center">A Software engineering student at 42Wolfsburg</h3>
-<img align="right" alt="Coding" width="400" src="![spinning-donut-featured (1)](https://user-images.githubusercontent.com/114252614/197403124-d2fe56a2-de3f-404a-ba69-47621b611abf.gif)">
+![spinning-donut-featured (1)](https://user-images.githubusercontent.com/114252614/197403656-d413f7f0-a386-45bf-90ff-a4d75cd5d692.gif)
+
 
 
 
