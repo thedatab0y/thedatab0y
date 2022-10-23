@@ -1,4 +1,3 @@
-![j](https://user-images.githubusercontent.com/114252614/197402928-37140c92-f460-40af-88b9-e68038d73fb5.png)
 <h1 align="center">Hi 👋, I'm Bekchanboy Usmanov</h1>
 <h3 align="center">A Software engineering student at 42Wolfsburg</h3>
 <img align="right" alt="Coding" width="400" src="![spinning-donut-featured (1)](https://user-images.githubusercontent.com/114252614/197403124-d2fe56a2-de3f-404a-ba69-47621b611abf.gif)">
