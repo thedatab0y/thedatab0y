@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bekchanboy Usmanov</h1>
-<h3 align="center">A Software engineering student at 42Wolfsburg</h3>
+<h3 align="center">A Software engineering student at <a href="https://42wolfsburg.de/">42Wolfsburg</a></h3>
 <img align="right" src="https://hackaday.com/wp-content/uploads/2020/07/spinning-donut-featured.gif" width="550" />
 
 
