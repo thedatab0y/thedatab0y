@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bekchanboy Usmanov</h1>
 <h3 align="center">A Software engineering student at 42Wolfsburg</h3>
-<img align="right" src="https://hackaday.com/wp-content/uploads/2020/07/spinning-donut-featured.gif" width="500" />
+<img align="right" src="https://hackaday.com/wp-content/uploads/2020/07/spinning-donut-featured.gif" width="550" />
 
 
 
