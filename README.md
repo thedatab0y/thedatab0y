@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bekchanboy Usmanov
 <h3 align="center">A Software engineering student at <a href="https://42wolfsburg.de/">42Wolfsburg</a></h3>
+<a href="https://github.com/JaeSeoKim/badge42"><img align="right" src="https://badge42.vercel.app/api/v2/cl9mxm9bh00300hl630qiubv9/stats?cursusId=21&coalitionId=151" alt="busmanov's 42 stats" /></a>
 <img align="right" src="https://hackaday.com/wp-content/uploads/2020/07/spinning-donut-featured.gif" width="550" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thedatab0y&label=Profile%20views&color=0e75b6&style=flat" alt="thedatab0y" /> </p>
