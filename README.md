@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thedatab0y&label=Profile%20views&color=0e75b6&style=flat" alt="thedatab0y" /> </p>
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **C, C++**
 
 - 📫 How to reach me **busmanov@student.42wolfsburg.de**
 
